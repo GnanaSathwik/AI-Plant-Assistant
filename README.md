@@ -62,6 +62,17 @@ Set your key in the environment before starting the app:
 ```powershell
 $env:GROQ_API_KEY="your_api_key_here"
 ```
+Replace: In groq_helper.py
+
+```python
+DEFAULT_GROQ_API_KEY = ""
+```
+
+with:
+
+```python
+DEFAULT_GROQ_API_KEY = "your_groq_api_key_here"
+```
 
 ## Notes
 
