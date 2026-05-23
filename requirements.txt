@@ -1,0 +1,6 @@
+streamlit
+numpy
+pillow
+groq
+transformers
+torch
