@@ -20,17 +20,17 @@ Streamlit web app for plant leaf disease detection with an AI-generated treatmen
 ## Project Structure
 
 ```text
-AIKRProject/
-|-- app.py
-|-- README.md
-|-- requirements.txt
-|-- models/
-|   `-- classes.json
-`-- utils/
-    |-- __init__.py
-    |-- groq_helper.py
-    |-- leaf_check.py
-    `-- predict.py
+Files uploaded include:
+
+- app.py
+- agent.py
+- ui.py
+- groq_helper.py
+- predict.py
+- leaf_check.py
+- classes.json
+- README.md
+- requirements.txt
 ```
 
 ## Requirements
